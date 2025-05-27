@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Food_Zone
 =======
-## Project 4 - Foody Zone
+# Foody Zone
 
 ![image](https://github.com/user-attachments/assets/c2771a1e-e878-459e-8c9f-23d83ac48aeb)
 
